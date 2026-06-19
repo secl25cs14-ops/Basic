@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
-import Hero from "./components/Hero";
+import Header from "./Components/Header";
+import Hero from "./Components/Hero";
 import About from "./Pages/About";
 import Features from "./Pages/Feature";  
 function App() {
